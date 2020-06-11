@@ -5,7 +5,7 @@ const hbs = require('hbs');
 require('./hbs/helpers'); // Se importan los helpers
 
 // Express HBS engine
-hbs.registerPartials( __dirname + '/views/parciales');
+hbs.registerPartials( __dirname + '/views/partials');
 app.set('view engine', 'hbs');
 
 
