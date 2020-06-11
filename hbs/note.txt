@@ -1,0 +1,1 @@
+Un Helper en hbs no es más que una función que se dispara cuando dicha esta se requiera en alguna plantilla.

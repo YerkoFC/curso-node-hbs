@@ -1,0 +1,11 @@
+Partials o parciales
+
+Estos son usados por el motor de plantillas 'Handlebars' con el objetivo de reutilizar código.
+
+Ejemplo: Un partial puede ser un navbar, el cual generalmente está en todas las rutas de una página web.
+
+Estos partials se agregan de la forma: 
+
+{{> <yourPartial> }} 
+
+Nota: Los simbolos <> no se agregan.
