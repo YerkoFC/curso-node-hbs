@@ -1,4 +1,4 @@
-### Aplicación básica en Node JS con el motor de plantillas Handlebars
+# Aplicación básica en Node JS con el motor de plantillas Handlebars
 
 ## Uso
 
